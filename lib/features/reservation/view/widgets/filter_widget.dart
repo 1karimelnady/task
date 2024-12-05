@@ -123,13 +123,3 @@ class FilterBuildWidget extends StatelessWidget {
     );
   }
 }
-
-// ReservationComponent(),
-// 22.verticalSpace,
-// ReservationComponent(
-//   isrespons: 1,
-// ),
-// 22.verticalSpace,
-// ReservationComponent(
-//   isrespons: 2,
-// ),
